@@ -3,3 +3,8 @@ Using Python, Dash and Plotly, I have developed an interactive two page web appl
 
 app.py contains the main python code you'll need
 style.css contains the styling css sheet 
+
+Link for the dataset:
+http://insideairbnb.com/get-the-data
+
+listing.csv.gz under Paris is the file you'll need to download and then attach it to your main directory in order to use the csv file
