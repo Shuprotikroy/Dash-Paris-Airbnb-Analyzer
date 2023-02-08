@@ -8,3 +8,5 @@ Link for the dataset:
 http://insideairbnb.com/get-the-data
 
 listing.csv.gz under Paris is the file you'll need to download and then attach it to your main directory in order to use the csv file
+
+For imager, refer outputs folder
