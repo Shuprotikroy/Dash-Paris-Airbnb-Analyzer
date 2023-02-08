@@ -66,6 +66,7 @@ tabledfdata=pd.DataFrame({'Host Name':tabledfdata.index,'Average Rating':tabledf
 
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+server=app.server
 
 
 
