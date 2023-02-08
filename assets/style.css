@@ -1,0 +1,20 @@
+/* Changes font and sets margin and padding to 0px for whole website */
+*{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* Sets font color to white and text style to bold for sidebar navigation text */
+.nav-pills .nav-link{
+   color: white; 
+   font-weight: 500;
+}
+
+/* Changes the background color and font color of sidebar navigation when navlink is selected */
+.nav-pills .nav-link.active {
+    color: #00A699;
+    background-color: white;
+}
+
