@@ -2,8 +2,7 @@
 # Aim of the project
 Using Python, Dash and Plotly, I have developed an interactive two page web application comprising of pie chart,bar chart,treemap,data table, bar graph and scatter map which can be accessed by users to find insights from a csv dataset.
 
-app.py contains the main python code you'll need
-style.css contains the styling css sheet 
+### app.py contains the main python code you'll need and style.css contains the styling css sheet 
 
 Link for the dataset:
 http://insideairbnb.com/get-the-data
