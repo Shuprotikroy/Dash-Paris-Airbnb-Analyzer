@@ -1,5 +1,7 @@
 # Dash-Paris-Airbnb-Analyzer
 
+## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
+
 ![home page scattermap](https://github.com/Shuprotikroy/Dash-Paris-Airbnb-Analyzer/assets/70252750/f5eedb71-b2e6-471f-a59e-a8d9520b217e)
 
 # Aim of the project
