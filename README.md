@@ -1,4 +1,7 @@
 # Dash-Paris-Airbnb-Analyzer
+
+![home page scattermap](https://github.com/Shuprotikroy/Dash-Paris-Airbnb-Analyzer/assets/70252750/f5eedb71-b2e6-471f-a59e-a8d9520b217e)
+
 # Aim of the project
 Using Python, Dash and Plotly, I have developed an interactive two page web application comprising of pie chart,bar chart,treemap,data table, bar graph and scatter map which can be accessed by users to find insights from a csv dataset.
 
